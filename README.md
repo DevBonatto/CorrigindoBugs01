@@ -31,4 +31,4 @@ Resolução dos bugs:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/5X74zwSaoqYnnRNLi5xjHl/Explorer---Projeto-01-(Copy)?type=design&node-id=0%3A1&mode=design&t=e9Ab22ML83JRexyf-1).
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/npmHouatKvxuQVAd8LTHNU/Explorer-Projeto-01-Copy?fuid=1256335722836990720).
