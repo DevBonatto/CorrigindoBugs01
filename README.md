@@ -19,6 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Bugs solucionados por conta própria.
 
+
 Bugs:
 <p align="center">
   <img alt="Desenho de uma pessoa vestindo uma camisa amarela em uma sala com móveis" src="Images/bug.png" width="100%">
